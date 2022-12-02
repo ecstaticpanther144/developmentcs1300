@@ -1,0 +1,129 @@
+[
+    {
+      "name": "White Sneakers",
+      "description": "white running sneakers",
+      "price": 64.99,
+      "color": "white",
+      "style": "sneaker",
+      "image": "images/whitesneakers.jpg",
+      "source":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1-index-white-sneakers-1629830273.jpg?crop=0.373xw:0.746xh;0.309xw,0.173xh&resize=640:*"
+    },
+    {
+        "name": "Black Sneakers",
+        "description": "black running sneakers",
+        "price": 69.99,
+        "color": "black",
+        "style": "sneaker",
+        "image": "images/blacksneakers.jpg",
+        "source":"https://slimages.macysassets.com/is/image/MCY/products/4/optimized/15662224_fpx.tif?$browse$&wid=224&fmt=jpeg"
+    },
+    {
+        "name": "Pink Sneakers",
+        "description": "pink running sneakers",
+        "price": 59.99,
+        "color": "pink",
+        "style": "sneaker",
+        "image": "images/pinksneakers.jpg",
+        "source":"https://images.bloomingdalesassets.com/is/image/BLM/products/5/optimized/12084055_fpx.tif?$2014_BROWSE_FASHION$&fmt=jpeg&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=280&hei=350"
+    },
+    {
+        "name": "Blue Sneakers",
+        "description": "blue running sneakers",
+        "price": 62.99,
+        "color": "blue",
+        "style": "sneaker",
+        "image": "images/bluesneakers.jpg",
+        "source":"https://data.tieapart.com/imgprodotto/light-blue-sneakers-shoes-with-white-sole_7853.jpg"
+    },
+    {
+        "name": "White Sandals",
+        "description": "white everyday sandals",
+        "price": 44.99,
+        "color": "white",
+        "style": "sandal",
+        "image": "images/whitesandals.jpg",
+        "source":"https://www.birkenstock.com/on/demandware.static/-/Sites-master-catalog/default/dwd32c0315/552681/552681.jpg"
+    },
+    {
+        "name": "Black Sandals",
+        "description": "black everyday sandals",
+        "price": 48.99,
+        "color": "black",
+        "style": "sandal",
+        "image": "images/blacksandals.jpeg",
+        "source":"https://www.refinery29.com/images/10452475.jpeg"
+    },
+    {
+        "name": "Pink Sandals",
+        "description": "pink everyday sandals",
+        "price": 40.99,
+        "color": "pink",
+        "style": "sandal",
+        "image": "images/pinksandals.jpg",
+        "source": "https://target.scene7.com/is/image/Target/GUEST_dfc11009-1a06-4bd0-b780-29e96ae7f9ae"
+    },
+    {
+        "name": "Blue Sandals",
+        "description": "blue everyday sandals",
+        "price": 46.99,
+        "color": "blue",
+        "style": "sandal",
+        "image": "images/bluesandals.jpg",
+        "source": "https://m.media-amazon.com/images/I/81tRiRycCJL._AC_SR255,340_.jpg"
+    },
+    {
+        "name": "White Boots",
+        "description": "white combat boots",
+        "price": 84.99,
+        "color": "white",
+        "style": "boot",
+        "image": "images/whiteboots.jpg",
+        "source":"https://target.scene7.com/is/image/Target/GUEST_4baee519-9b65-48fc-9e49-c4a063fad7b5"
+    },
+    {
+        "name": "Black Boots",
+        "description": "black combat boots",
+        "price": 93.99,
+        "color": "black",
+        "style": "boot",
+        "image": "images/blackboots.jpg",
+        "source":"https://cdn.media.amplience.net/s/hottopic/14500131_hi?$productMainDesktop$"
+    },
+    {
+        "name": "Pink Boots",
+        "description": "pink combat boots",
+        "price": 86.99,
+        "color": "pink",
+        "style": "boot",
+        "image": "images/pinkboots.jpg",
+        "source":"https://static.shiekh.com/media/catalog/product/cache/image/2000x2000/e9c3970ab036de70892d86c6d221abfe/7/3/73e49f5955d6935a4dcdee32eee61a82.jpg"
+    },
+    {
+        "name": "Blue Boots",
+        "description": "blue combat boots",
+        "price": 82.99,
+        "color": "blue",
+        "style": "boot",
+        "image": "images/blueboots.jpg",
+        "source":"https://cititrends.com/wp-content/uploads/2022/09/REYNA-42Y.jpg"
+    },
+    {
+        "name": "Black Heel Boots",
+        "description": "black fancy heeled boots",
+        "price": 89.99,
+        "color": "black",
+        "style": "boot",
+        "image": "images/blackboots2.jpg",
+        "source":"https://target.scene7.com/is/image/Target/GUEST_513bb1de-7f41-4318-8459-17935c425445"
+    },
+    {
+        "name": "White Marble Boots",
+        "description": "white marble pattern combat boots",
+        "price": 91.99,
+        "color": "white",
+        "style": "boot",
+        "image": "images/whiteboots2.jpg",
+        "source":"https://images.journeys.com/images/products/1_682582_ZM_ALT5.JPG"
+    }
+  ]
+  
