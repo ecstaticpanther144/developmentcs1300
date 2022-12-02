@@ -2,7 +2,7 @@
 
 ### Link to Deployed Website
 If you used the stencil code, this is `https://<your GitHub username>.github.io/<name of your repository>`
-https://ecstaticpanther144.github.io/development1300
+https://ecstaticpanther144.github.io/developmentcs1300
 
 ### Goal and Value of the Application
 This application is a website that models a shoe store that offers a variety of shoe styles and colors. While the inventory on the application is limited (four colors and three styles), the basic model of being able to filter the inventory by these two parameters is easily extendable to real world shoe store websites. Additionally, the sorting feature organizes the inventory by price, though this can also be extended in real world examples to also sort by rating, popularity, or any other such factor. Thus, the goal of this application is to serve as a model for breaking down the process of shoe buying to its most basic steps of searching by color, style, and price.
